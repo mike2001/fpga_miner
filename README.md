@@ -7,6 +7,7 @@ Below are the steps I used to get the miner running on my Raspberry Pi.
 <li>sudo apt-get update</li>
 <li>sudo apt-get install cmake libusb-1.0-0-dev libusb-1.0-0 libcurl4-openssl-dev libudev-dev screen libtool pkg-config libjansson-dev</li>
 <li>git clone https://github.com/sprocket-fpga/fpga_miner.git</li>
+ 
 <li>cd fpga_miner</li>
 <li>mkdir build</li>
 <li>cd build</li>
